@@ -1,5 +1,19 @@
 # Avance del Proyecto
 
+## Desarrollador
+**teoamoros11-afk**
+
+## Sobre el Proyecto
+Creación de una colección de juegos clásicos utilizando **Claude Code** como herramienta principal de desarrollo.
+
+## Objetivo
+Desarrollar 15 juegos diferentes para practicar y demostrar capacidades de programación asistida por IA.
+
+## Estado Actual
+✅ Repositorio creado  
+📋 Lista de tareas definida  
+⏳ Desarrollo de juegos pendiente  
+
 ## Lista de Tareas
 
 - [ ] Crear Snake con Claude Code
@@ -17,3 +31,6 @@
 - [ ] Crear Hundir la Flota con Claude Code
 - [ ] Crear 40 juegos custom con Claude Code
 - [ ] Crear MENTIS con Claude Code
+
+---
+*Última actualización: 2026-06-18*
