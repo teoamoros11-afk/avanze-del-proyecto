@@ -1,8 +1,5 @@
 # Avance del Proyecto
 
-## Herramienta de Desarrollo
-🔗 https://opncd.ai/share/KUjk2Tav
-
 ## Lista de Tareas
 
 - [ ] Crear Snake con Claude Code
